@@ -1,4 +1,4 @@
-
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 
 <h1 align="center">Hi 👋, I'm Samia Alam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/samia-alam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samia alam" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/samia-alam-a99435276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samia alam" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/samia-2949" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="samia-2949" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/__samia__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="__samia__" height="30" width="40" /></a>
 </p>
