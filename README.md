@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/200w.webp?cid=ecf05e47zg80fcu8jc3mk8yqw0af8t3p9ywmq96pd1ptmdju&ep=v1_gifs_search&rid=200w.webp&ct=g)
 
 <h1 align="center"> I'm Samia Alam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
