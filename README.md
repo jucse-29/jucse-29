@@ -1,8 +1,5 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ66VVCwjNw3lVbSJsGgPd_hs2UBSh_X9L9Pw&usqp=CAU/s1600/2000_600px.gif)
-
-<h1 align="center"> I'm Samia Alam</h1>
+<h1 align="center">Hi 👋, I'm Samia Alam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jucse-29&label=Profile%20views&color=0e75b6&style=flat" alt="jucse-29" /> </p>
 
@@ -14,13 +11,15 @@
 
 - 🌱 I’m currently learning **css,html,Js,Phython.**
 
+- 👨‍💻 All of my projects are available at [http://samia49.great-site.net/](http://samia49.great-site.net/)
+
 - 📫 How to reach me **samia20191@juniv.edu**
 
 - ⚡ Fun fact **I think i am lazy.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/samia-alam-a99435276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samia alam" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/samia alam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samia alam" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/samia-2949" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="samia-2949" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/__samia__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="__samia__" height="30" width="40" /></a>
 </p>
