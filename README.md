@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **css,html,Js,Phython.**
 
-- 👨‍💻 All of my projects are available at [http://samia49.great-site.net/](http://samia49.great-site.net/)
+- 👨‍💻 All of my projects are available at https://main--unique-marzipan-cf61f7.netlify.app/
 
 - 📫 How to reach me **samia20191@juniv.edu**
 
