@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **css,html,Js,Python,React,Material UI.**
 
 - 👨‍💻 All of my projects are available at https://main--unique-marzipan-cf61f7.netlify.app/
-  -My Codeforces Account  https://codeforces.com/profile/__Samia__
+- 
 - 📫 How to reach me **samia20191@juniv.edu**
 
 - ⚡ Fun fact **I think i am lazy.**
