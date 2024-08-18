@@ -9,10 +9,10 @@
 
 - 🔭 I’m currently working on **Plant Shop Management System**
 
-- 🌱 I’m currently learning **css,html,Js,Python,React,Material UI.**
+- 🌱 I’m currently learning **django,react.js**
 
-- 👨‍💻 All of my projects are available at https://main--unique-marzipan-cf61f7.netlify.app/
-- 
+- 👨‍💻 All of my projects are available at
+  
 - 📫 How to reach me **samia20191@juniv.edu**
 
 - ⚡ Fun fact **I think i am lazy.**
