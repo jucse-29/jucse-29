@@ -1,17 +1,10 @@
 <h1 align="center">Hi 👋, I'm Samia Alam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jucse-29&label=Profile%20views&color=0e75b6&style=flat" alt="jucse-29" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jucse-29" alt="jucse-29" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Plant Shop Management System**
 
 - 🌱 I’m currently learning **django,react.js**
-
-- 👨‍💻 All of my projects are available at
   
 - 📫 How to reach me **samia20191@juniv.edu**
 
